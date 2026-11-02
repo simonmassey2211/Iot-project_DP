@@ -184,7 +184,8 @@ Training and validation accuracy and loss are monitored to understand the model'
 - Devesh Kumar
 - Kartik Singh
 - Awwaleen Ali
-- Simon Massey Bhaskar Gole
+- Simon Massey
+- Bhaskar Gole
 - Bharat Bhusan
 - Aryan Gangwar
 
